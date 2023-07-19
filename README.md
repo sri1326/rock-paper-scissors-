@@ -1,4 +1,7 @@
 # rock-paper-scissors-
+
+<img width="736" alt="rps" src="https://github.com/sri1326/rock-paper-scissors-/assets/123288088/b0322656-a84d-4875-a69c-97b5c96f2ffb">
+
 Description:
 Welcome to the exciting world of Rock-Paper-Scissors! This web page is a fun and interactive game that allows you to challenge your friends or test your luck against the computer. With a simple and user-friendly design, you can easily engage in multiple rounds of this classic hand game.
 
